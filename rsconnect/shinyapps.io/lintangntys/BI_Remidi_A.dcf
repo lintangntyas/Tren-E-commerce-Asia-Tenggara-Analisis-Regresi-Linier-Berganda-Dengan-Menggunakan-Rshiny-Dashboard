@@ -1,0 +1,12 @@
+name: BI_Remidi_A
+title: BI_Remidi_A
+username: lintangntys
+account: lintangntys
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11098893
+bundleId: 8206595
+url: https://lintangntys.shinyapps.io/BI_Remidi_A/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
